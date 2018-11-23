@@ -12,6 +12,8 @@ This is a simple implementation of [Redux](https://redux.js.org/). The goal here
 
 `npm run exercise3`
 
+Or want to work from [Codesandbox](https://codesandbox.io/s/yvjqzk85pj) 😈?
+
 ## Tasks
 
 **Coach** Explain the Redux concepts
